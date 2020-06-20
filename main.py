@@ -1,7 +1,7 @@
 from selenium import webdriver
 import time
 
-driver_path = "C:\PyProjects\selenium\chromedriver.exe"
+driver_path = "chromedriver.exe"
 
 # proxy = "http://ip:port"
 # chrome_options = webdriver.ChromeOptions()
